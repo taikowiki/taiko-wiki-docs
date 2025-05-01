@@ -6,7 +6,6 @@ body:
       label: 문서 링크
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
-      value: |
-        테스트
+      label: 사유
