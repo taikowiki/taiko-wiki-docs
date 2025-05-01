@@ -1,0 +1,13 @@
+title: "[삭제] "
+body:
+  - type: input
+    id: has-id
+    attributes:
+      label: Suggestions
+      description: A description about suggestions to help you
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        This is text that will show up in the template!
