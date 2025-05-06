@@ -1,0 +1,11 @@
+title: "[완전 삭제] "
+labels: ["문서 완전 삭제"]
+body:
+  - type: input
+    attributes:
+      label: 문서 링크
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 사유
